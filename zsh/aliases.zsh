@@ -1,0 +1,1 @@
+/Users/sarthakkapila/dotfiles/zsh/aliases.zsh
